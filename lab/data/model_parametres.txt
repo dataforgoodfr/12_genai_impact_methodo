@@ -1,0 +1,1692 @@
+EleutherAI/gpt-neox-20b: 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped: 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b: 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped: 1.4 milliards de paramètres
+EleutherAI/gpt-j-6b: 6 milliards de paramètres
+EleutherAI/pythia-12b: 12 milliards de paramètres
+EleutherAI/pythia-1.3b: 1.3 milliards de paramètres
+EleutherAI/pythia-12b-deduped: 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped: 1 milliard de paramètres
+EleutherAI/gpt-neo-125m: 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b: 12.8 milliards de paramètres
+EleutherAI/pythia-410m: 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B: 1.3 milliards de paramètres
+EleutherAI/pythia-160m-deduped: 160 millions de paramètres
+EleutherAI/pythia-410m-deduped: 410 millions de paramètres
+EleutherAI/pythia-160m: 160 millions de paramètres
+EleutherAI/pythia-2.7b: 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped: 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped: 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B: 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T: 1.1 milliards de paramètres
+ahxt/llama2_xs_460M_experimental: 460 millions de paramètres
+GeneZC/MiniMA-3B: 3 milliards de paramètres
+GeneZC/MiniMA-2-3B: 3 milliards de paramètres
+Locutusque/TinyMistral-248m: 248 millions de paramètres
+DevaMalla/llama-base-7b: 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e: 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048: 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16: 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b: 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b: 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T: 1.1 milliards de paramètres
+robowaifudev/megatron-gpt2-345m: 345 millions de paramètres
+meta-llama/Llama-2-7b-hf: 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf: 13 milliards de paramètres
+meta-llama/Llama-2-70b-hf: 70 milliards de paramètres
+winglian/Llama-2-3b-hf: 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1: 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b: 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k: 4 milliards de paramètres
+matsuo-lab/weblab-10b: 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1: 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m: 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b-v2: 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-40b: 40 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-20b: 20 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b: 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b: 1.3 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-356m: 356 millions de paramètres
+uukuguy/Orca-2-7b-f16: 7 milliards de paramètres
+01-ai/Yi-34B-200K: 34 milliards de paramètres
+01-ai/Yi-34B: 34 milliards de paramètres
+01-ai/Yi-6B-200K: 6 milliards de paramètres
+01-ai/Yi-6B: 6 milliards de paramètres
+scb10x/typhoon-7b: 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16: 13 milliards de paramètres
+Salesforce/codegen-6B-multi: 6 milliards de paramètres
+Salesforce/codegen-16B-nl: 16 milliards de paramètres
+Salesforce/codegen-6B-nl: 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base: 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base: 67 milliards de paramètres
+cyberagent/calm2-7b-chat: 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens: 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M: 111 millions de paramètres
+cerebras/Cerebras-GPT-13B: 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B: 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B: 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-1.3B: 1.3 milliards de paramètres
+itsliupeng/openllama-7b-base: 7 milliards de paramètres
+itsliupeng/openllama-7b-icl: 7 milliards de paramètres
+ethzanalytics/pythia-31m: 31 millions de paramètres
+tiiuae/falcon-rw-1b: 1 milliard de paramètres
+tiiuae/falcon-40b: 40 milliards de paramètres
+facebook/xglm-7.5B: 7.5 milliards de paramètres
+facebook/xglm-564M: 564 millions de paramètres
+facebook/xglm-4.5B: 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama: 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack: 26 milliards de paramètres
+bigscience/bloom-7b1: 7 milliards de paramètres
+bigscience/bloom-3b: 3 milliards de paramètres
+BEE-spoke-data/smol_llama-220M-GQA: 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied: 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA: 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1: 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B: 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1: 1.3 milliards de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b: 3 milliards de paramètres
+stabilityai/stablelm-3b-4e1t: 3 milliards de paramètres
+huggyllama/llama-65b: 65 milliards de paramètres
+huggyllama/llama-13b: 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B: 22 milliards de paramètres
+roneneldan/TinyStories-33M: 33 millions de paramètres
+roneneldan/TinyStories-3M: 3 millions de paramètres
+roneneldan/TinyStories-28M: 28 millions de paramètres
+roneneldan/TinyStories-8M: 8 millions de paramètres
+budecosystem/boomer-1b: 1 milliard de paramètres
+openlm-research/open_llama_7b_v2: 7 milliards de paramètres
+openlm-research/open_llama_7b: 7 milliards de paramètres
+openlm-research/open_llama_13b: 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1: 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1: 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base: 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1: 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1: 7 milliards de paramètres
+Devio/test-22B: 22 milliards de paramètres
+internlm/internlm-20b: 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha: 11 milliards de paramètres
+Dampish/StellarX-4B-V0: 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2: 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0: 10.7 milliards de paramètres
+huggingface/llama-7b: 7 milliards de paramètres
+huggingface/llama-65b: 65 milliards de paramètres
+huggingface/llama-30b: 30 milliards de paramètres
+huggingface/llama-13b: 13 milliards de paramètres
+beomi/Yi-Ko-6B: 6 milliards de paramètres
+fblgit/una-llama-7b: 7 milliards de paramètres
+codellama/CodeLlama-7b-hf: 7 milliards de paramètres
+codellama/CodeLlama-13b-hf: 13 milliards de paramètres
+EleutherAI/gpt-neox-20b: 20 milliards de paramètres
+EleutherAI/pythia-6.7b: 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped: 1.4 milliards de paramètres
+EleutherAI/gpt-j-6b: 6 milliards de paramètres
+EleutherAI/pythia-12b: 12 milliards de paramètres
+EleutherAI/pythia-1.3b: 1.3 milliards de paramètres
+EleutherAI/pythia-12b-deduped: 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped: 1 milliard de paramètres
+EleutherAI/gpt-neo-125m: 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b: 12.8 milliards de paramètres
+EleutherAI/pythia-410m: 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B: 1.3 milliards de paramètres
+EleutherAI/pythia-160m-deduped: 160 millions de paramètres
+EleutherAI/pythia-410m-deduped: 410 millions de paramètres
+EleutherAI/pythia-160m: 160 millions de paramètres
+EleutherAI/pythia-2.7b: 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped: 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped: 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B: 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T: 1.1 milliards de paramètres
+ahxt/llama2_xs_460M_experimental: 460 millions de paramètres
+GeneZC/MiniMA-3B: 3 milliards de paramètres
+GeneZC/MiniMA-2-3B: 3 milliards de paramètres
+Locutusque/TinyMistral-248M-v2: 248 millions de paramètres
+Locutusque/TinyMistral-248m: 248 millions de paramètres
+DevaMalla/llama-base-7b: 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e: 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048: 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliards de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+TencentARC/LLaMA-Pro-8B : 8 milliards de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf : 13 milliards de paramètres
+meta-llama/Llama-2-70b-hf :70 milliards de paramètres
+team-lucid/mptk-1b : 1 milliards de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1: 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m: 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b-v2: 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-40b: 40 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-20b: 20 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b: 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b: 1.3 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-356m: 356 millions de paramètres
+uukuguy/Orca-2-7b-f16: 7 milliards de paramètres
+01-ai/Yi-34B-200K: 34 milliards de paramètres
+01-ai/Yi-34B: 34 milliards de paramètres
+01-ai/Yi-6B-200K: 6 milliards de paramètres
+01-ai/Yi-6B: 6 milliards de paramètres
+scb10x/typhoon-7b: 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16: 13 milliards de paramètres
+mosaicml/mpt-30b: 30 milliards de paramètres
+mosaicml/mpt-7b: 7 milliards de paramètres
+Salesforce/codegen-6B-multi: 6 milliards de paramètres
+Salesforce/codegen-16B-nl: 16 milliards de paramètres
+Salesforce/codegen-6B-nl: 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base: 7 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied: 1.8 milliards de paramètres
+cyberagent/calm2-7b-chat: 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens: 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M: 111 millions de paramètres
+cerebras/Cerebras-GPT-13B: 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B: 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B: 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M: 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B: 1.3 milliards de paramètres
+itsliupeng/openllama-7b-base: 7 milliards de paramètres
+itsliupeng/openllama-7b-icl: 7 milliards de paramètres
+ethzanalytics/pythia-31m: 31 millions de paramètres
+tiiuae/falcon-rw-1b: 1 milliard de paramètres
+tiiuae/falcon-40b: 40 milliards de paramètres
+facebook/xglm-7.5B: 7.5 milliards de paramètres
+facebook/xglm-564M: 564 millions de paramètres
+facebook/xglm-4.5B: 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama: 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack: 26 milliards de paramètres
+bigscience/bloom-7b1: 7 milliards de paramètres
+bigscience/bloom-3b: 3 milliards de paramètres
+BEE-spoke-data/smol_llama-220M-GQA: 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied: 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA: 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1: 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B: 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1: 1.3 milliards de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b: 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2: 7 milliards de paramètres
+huggyllama/llama-13b: 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B: 22 milliards de paramètres
+roneneldan/TinyStories-33M: 33 millions de paramètres
+roneneldan/TinyStories-3M: 3 millions de paramètres
+roneneldan/TinyStories-28M: 28 millions de paramètres
+roneneldan/TinyStories-8M: 8 millions de paramètres
+budecosystem/boomer-1b: 1 milliard de paramètres
+openlm-research/open_llama_7b_v2: 7 milliards de paramètres
+openlm-research/open_llama_7b: 7 milliards de paramètres
+openlm-research/open_llama_13b: 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1: 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1: 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base: 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1: 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1: 7 milliards de paramètres
+Devio/test-22B: 22 milliards de paramètres
+internlm/internlm-20b: 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha: 11 milliards de paramètres
+Dampish/StellarX-4B-V0: 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2: 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0: 10.7 milliards de paramètres
+huggingface/llama-7b: 7 milliards de paramètres
+huggingface/llama-30b: 30 milliards de paramètres
+huggingface/llama-13b: 13 milliards de paramètres
+beomi/Yi-Ko-6B: 6 milliards de paramètres
+fblgit/una-llama-7b: 7 milliards de paramètres
+codellama/CodeLlama-7b-hf: 7 milliards de paramètres
+codellama/CodeLlama-13b-hf: 13 milliards de paramètres
+codellama/CodeLlama-34b-hf: 34 milliards de paramètres
+EleutherAI/gpt-neox-20b: 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped: 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b: 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped: 1.4 milliards de paramètres
+EleutherAI/gpt-j-6b: 6 milliards de paramètres
+EleutherAI/pythia-12b: 12 milliards de paramètres
+EleutherAI/pythia-1.3b: 1.3 milliards de paramètres
+EleutherAI/pythia-12b-deduped: 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped: 1 milliard de paramètres
+EleutherAI/gpt-neo-125m: 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b: 12.8 milliards de paramètres
+EleutherAI/pythia-410m: 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B: 1.3 milliards de paramètres
+EleutherAI/pythia-160m-deduped: 160 millions de paramètres
+EleutherAI/pythia-410m-deduped: 410 millions de paramètres
+EleutherAI/pythia-160m: 160 millions de paramètres
+EleutherAI/pythia-2.7b: 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped: 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped: 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B: 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T: 1.1 milliards de paramètres
+ahxt/llama2_xs_460M_experimental: 460 millions de paramètres
+GeneZC/MiniMA-3B: 3 milliards de paramètres
+GeneZC/MiniMA-2-3B: 3 milliards de paramètres
+Locutusque/TinyMistral-248m: 248 millions de paramètres
+DevaMalla/llama-base-7b: 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e: 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048: 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16: 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b: 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b: 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T: 1.1 milliards de paramètres
+Deci/DeciLM-7B: 7 milliards de paramètres
+meta-llama/Llama-2-7b-hf: 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf: 13 milliards de paramètres
+meta-llama/Llama-2-70b-hf: 70 milliards de paramètres
+winglian/Llama-2-3b-hf: 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1: 7 milliards de paramètres
+mistralai/Mixtral-8x7B-v0.1: 56 milliards de paramètres
+rinna/bilingual-gpt-neox-4b: 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k: 4 milliards de paramètres
+matsuo-lab/weblab-10b: 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1: 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16: 7 milliards de paramètres
+01-ai/Yi-34B-200K: 34 milliards de paramètres
+01-ai/Yi-34B: 34 milliards de paramètres
+01-ai/Yi-6B-200K: 6 milliards de paramètres
+01-ai/Yi-6B: 6 milliards de paramètres
+scb10x/typhoon-7b: 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16: 13 milliards de paramètres
+Salesforce/codegen-6B-multi: 6 milliards de paramètres
+Salesforce/codegen-16B-nl: 16 milliards de paramètres
+Salesforce/codegen-6B-nl: 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base: 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base: 67 milliards de paramètres
+cyberagent/calm2-7b-chat: 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens: 7 milliards de paramètres
+itsliupeng/openllama-7b-base: 7 milliards de paramètres
+itsliupeng/Mixtral-8x7B-v0.1-top3: 56 milliards de paramètres
+itsliupeng/openllama-7b-icl: 7 milliards de paramètres
+ethzanalytics/pythia-31m: 31 millions de paramètres
+chargoddard/Yi-34B-Llama: 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack: 26 milliards de paramètres
+bigscience/bloom-7b1: 7 milliards de paramètres
+bigscience/bloom-3b: 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2: 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA: 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied: 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA: 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1: 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B: 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1: 1.3 milliards de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b: 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b: 3 milliards de paramètres
+huggyllama/llama-65b: 65 milliards de paramètres
+huggyllama/llama-13b: 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B: 22 milliards de paramètres
+Walmart-the-bag/Influxient-4x13B: 52 milliards de paramètres
+roneneldan/TinyStories-33M: 33 millions de paramètres
+roneneldan/TinyStories-1M: 1 million de paramètres
+roneneldan/TinyStories-3M: 3 millions de paramètres
+roneneldan/TinyStories-28M: 28 millions de paramètres
+roneneldan/TinyStories-8M: 8 millions de paramètres
+budecosystem/boomer-1b: 1 milliard de paramètres
+openlm-research/open_llama_3b_v2: 3 milliards de paramètres
+openlm-research/open_llama_7b_v2: 7 milliards de paramètres
+openlm-research/open_llama_7b: 7 milliards de paramètres
+openlm-research/open_llama_3b: 3 milliards de paramètres
+openlm-research/open_llama_13b: 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1: 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1: 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base: 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1: 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1: 7 milliards de paramètres
+Devio/test-22B: 22 milliards de paramètres
+Delcos/Starling-LM-11B-alpha: 11 milliards de paramètres
+Dampish/StellarX-4B-V0: 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2: 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0: 10.7 milliards de paramètres
+huggingface/llama-7b: 7 milliards de paramètres
+huggingface/llama-65b: 65 milliards de paramètres
+huggingface/llama-30b: 30 milliards de paramètres
+huggingface/llama-13b: 13 milliards de paramètres
+beomi/Yi-Ko-6B: 6 milliards de paramètres
+fblgit/una-llama-7b: 7 milliards de paramètres
+codellama/CodeLlama-7b-hf: 7 milliards de paramètres
+codellama/CodeLlama-13b-hf: 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B: 20 milliards de paramètres
+cloudyu/Mixtral_7Bx4_MOE_24B: 28 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped: 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b: 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliards de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliards de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliards de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliards de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248M-v2 : 248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliards de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+TencentARC/LLaMA-Pro-8B : 8 milliards de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf : 13 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b-v2 : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-20b : 20 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied : 1.8 milliards de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-13B : 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+tiiuae/falcon-7b : 7 milliards de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/SmolLlamix-8x101M : 808 millions de paramètres
+chargoddard/SmolLlamix-8x101M-take2 : 808 millions de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliards de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+Walmart-the-bag/WordWoven-13B : 13 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+RWKV/rwkv-4-3b-pile : 3 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+RWKV/rwkv-4-7b-pile : 7 milliards de paramètres
+RWKV/rwkv-raven-14b : 14 millions de paramètres
+RWKV/rwkv-4-14b-pile : 14 milliards de paramètres
+RWKV/rwkv-4-1b5-pile : 1.5 milliards de paramètres
+TigerResearch/tigerbot-13b-base : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+internlm/internlm-20b : 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 7 milliards de paramètres
+huggingface/llama-7b : 7 milliards de paramètres
+huggingface/llama-13b : 13 milliards de paramètres
+beomi/Yi-Ko-6B : 7 milliards de paramètres
+beomi/KoRWKV-6B : 7 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_11Bx2_MoE_19B: 11 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE: 7 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped: 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b: 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped: 1.4 milliards de paramètres
+EleutherAI/gpt-j-6b: 6 milliards de paramètres
+EleutherAI/pythia-1.3b: 1.3 milliards de paramètres
+EleutherAI/pythia-1b-deduped: 1 milliard de paramètres
+EleutherAI/gpt-neo-125m: 125 millions de paramètres
+EleutherAI/pythia-410m: 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B: 1.3 milliards de paramètres
+EleutherAI/pythia-160m-deduped: 160 millions de paramètres
+EleutherAI/pythia-410m-deduped: 410 millions de paramètres
+EleutherAI/pythia-160m: 160 millions de paramètres
+EleutherAI/pythia-2.7b: 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped: 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped: 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B: 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T: 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental: 460 millions de paramètres
+GeneZC/MiniMA-3B: 3 milliards de paramètres
+GeneZC/MiniMA-2-3B: 3 milliards de paramètres
+Locutusque/TinyMistral-248m: 248 millions de paramètres
+DevaMalla/llama-base-7b: 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e: 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048: 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch: 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16: 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b: 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b: 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T: 1.1 milliard de paramètres
+robowaifudev/megatron-gpt2-345m: 345 millions de paramètres
+meta-llama/Llama-2-7b-hf: 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf: 13 milliards de paramètres
+winglian/Llama-2-3b-hf: 3 milliards de paramètres
+rinna/bilingual-gpt-neox-4b: 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k: 4 milliards de paramètres
+matsuo-lab/weblab-10b: 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1: 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m: 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b: 1.3 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-356m: 356 millions de paramètres
+uukuguy/Orca-2-7b-f16: 7 milliards de paramètres
+01-ai/Yi-6B-200K: 6 milliards de paramètres
+01-ai/Yi-6B: 6 milliards de paramètres
+TheBloke/Llama-2-13B-fp16: 13 milliards de paramètres
+Salesforce/codegen-6B-multi: 6 milliards de paramètres
+Salesforce/codegen-6B-nl: 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base: 7 milliards de paramètres
+cyberagent/calm2-7b-chat: 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens: 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M: 111 millions de paramètres
+cerebras/Cerebras-GPT-13B: 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B: 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B: 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-1.3B: 1.3 milliards de paramètres
+itsliupeng/openllama-7b-base: 7 milliards de paramètres
+ethzanalytics/pythia-31m: 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+huggingface/llama-7b : 7 milliards de paramètres
+huggingface/llama-13b : 13 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248M-v2 : 248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliards de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+TencentARC/LLaMA-Pro-8B : 8 milliards de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf : 13 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b-v2 : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-20b : 20 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied : 1.8 milliard de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-13B : 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliard de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+tiiuae/falcon-7b : 7 milliards de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/SmolLlamix-8x101M : 808 millions de paramètres (8x101M)
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+chargoddard/SmolLlamix-8x101M-take2 : 808 millions de paramètres (8x101M)
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+Walmart-the-bag/WordWoven-13B : 13 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+RWKV/rwkv-4-3b-pile : 3 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+RWKV/rwkv-4-7b-pile : 7 milliards de paramètres
+RWKV/rwkv-raven-14b : 14 milliards de paramètres
+RWKV/rwkv-4-14b-pile : 14 milliards de paramètres
+RWKV/rwkv-4-1b5-pile : 1.5 milliard de paramètres
+TigerResearch/tigerbot-13b-base : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+internlm/internlm-20b : 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+huggingface/llama-13b : 13 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+beomi/KoRWKV-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B : 20 milliards de paramètres (7Bx2_MoE_13B)
+cloudyu/Mixtral_11Bx2_MoE_19B : 22 milliards de paramètres (11Bx2_MoE_19B)
+cloudyu/Mixtral_7Bx2_MoE : 14 milliards de paramètres (7Bx2_MoE)
+cloudyu/Mixtral_7Bx4_MOE_24B : 28 milliards de paramètres (7Bx4_MOE_24B)
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248M-v2 : 248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied : 1.8 milliard de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliard de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/SmolLlamix-8x101M : 808 millions de paramètres (8x101M)
+chargoddard/SmolLlamix-8x101M-take2 : 808 millions de paramètres (8x101M)
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+RWKV/rwkv-4-3b-pile : 3 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+RWKV/rwkv-4-7b-pile : 7 milliards de paramètres
+RWKV/rwkv-4-1b5-pile : 1.5 milliard de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+huggingface/llama-7b : 7 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+beomi/KoRWKV-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+mistralai/Mixtral-8x7B-v0.1 : 56 milliards de paramètres (8x7B)
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+mosaicml/mpt-30b : 30 milliards de paramètres
+mosaicml/mpt-7b : 7 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base : 67 milliards de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/Mixtral-8x7B-v0.1-top3 : 56 milliards de paramètres (8x7B)
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+tiiuae/falcon-7b : 7 milliards de paramètres
+tiiuae/falcon-40b : 40 milliards de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+huggyllama/llama-65b : 65 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de tokens, 500 milliards de tokens
+Walmart-the-bag/Influxient-4x13B : 4x13 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+RWKV/rwkv-4-3b-pile : 4 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+RWKV/rwkv-4-7b-pile : 7 milliards de paramètres
+RWKV/rwkv-raven-14b : 14 milliards de paramètres
+RWKV/rwkv-4-14b-pile : 14 milliards de paramètres
+RWKV/rwkv-4-1b5-pile : 1.5 milliard de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+internlm/internlm-20b : 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+beomi/KoRWKV-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B : 27 milliards de paramètres (7Bx2 + 13B)
+cloudyu/Mixtral_7Bx2_MoE : 14 milliards de paramètres (7Bx2)
+cloudyu/Mixtral_7Bx4_MOE_24B : 38 milliards de paramètres (7Bx4 + 24B)
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+mistralai/Mixtral-8x7B-v0.1 : 56 milliards de paramètres (8 x 7B)
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base : 67 milliards de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/Mixtral-8x7B-v0.1-top3 : 56 milliards de paramètres (8 x 7B)
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+huggyllama/llama-65b : 65 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+Walmart-the-bag/Influxient-4x13B : 52 milliards de paramètres (4 x 13B)
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE : 7 milliards de paramètres
+cloudyu/Mixtral_7Bx4_MOE_24B : 24 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliards de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliards de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf : 13 milliards de paramètres
+meta-llama/Llama-2-70b-hf : 70 milliards de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base : 67 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied : 1.8 milliard de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+huggyllama/llama-65b : 65 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+huggingface/llama-7b : 7 milliards de paramètres
+huggingface/llama-65b : 65 milliards de paramètres
+huggingface/llama-30b : 30 milliards de paramètres
+huggingface/llama-13b : 13 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+mistralai/Mixtral-8x7B-v0.1 : 8 fois 7 milliards de paramètres (56 milliards)
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+mosaicml/mpt-30b : 30 milliards de paramètres
+mosaicml/mpt-7b : 7 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base : 67 milliards de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/Mixtral-8x7B-v0.1-top3 : 8 fois 7 milliards de paramètres (56 milliards)
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+tiiuae/falcon-7b : 7 milliards de paramètres
+tiiuae/falcon-40b : 40 milliards de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+huggyllama/llama-65b : 65 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+Walmart-the-bag/Influxient-4x13B : 4 fois 13 milliards de paramètres (52 milliards)
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+RWKV/rwkv-4-3b-pile : 3 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+RWKV/rwkv-4-7b-pile : 7 milliards de paramètres
+RWKV/rwkv-raven-14b : 14 milliards de paramètres
+RWKV/rwkv-4-14b-pile : 14 milliards de paramètres
+RWKV/rwkv-4-1b5-pile : 1.5 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+internlm/internlm-20b : 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+beomi/KoRWKV-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B : 7 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE : 7 milliards de paramètres
+cloudyu/Mixtral_7Bx4_MOE_24B : 7 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248M-v2 : 248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+TencentARC/LLaMA-Pro-8B : 8 milliards de paramètres
+meta-llama/Llama-2-7b-hf : 7 milliards de paramètres
+meta-llama/Llama-2-13b-hf : 13 milliards de paramètres
+meta-llama/Llama-2-70b-hf : 70 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b-v2 : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-40b : 40 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-20b : 20 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-6.7b : 6.7 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+mosaicml/mpt-30b : 30 milliards de paramètres
+mosaicml/mpt-7b : 7 milliards de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-16B-nl : 16 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+deepseek-ai/deepseek-llm-67b-base : 67 milliards de paramètres
+KnutJaegersberg/Qwen-1_8B-Llamafied : 1.8 milliard de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-13B : 13 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliard de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+tiiuae/falcon-40b : 40 milliards de paramètres
+facebook/xglm-7.5B : 7.5 milliards de paramètres
+facebook/xglm-564M : 564 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+bigscience/bloom-7b1 : 7 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+TurkuNLP/gpt3-finnish-13B : 13 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b-v2 : 7 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+huggyllama/llama-65b : 65 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+internlm/internlm-20b : 20 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 7 milliards de paramètres
+huggingface/llama-7b : 7 milliards de paramètres
+huggingface/llama-65b : 65 milliards de paramètres
+huggingface/llama-30b : 30 milliards de paramètres
+huggingface/llama-13b : 13 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+codellama/CodeLlama-34b-hf : 34 milliards de paramètres
+EleutherAI/gpt-neox-20b : 20 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/pythia-12b : 12 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/polyglot-ko-12.8b : 12.8 milliards de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+ahxt/llama2_xs_460M_experimental : 460 millions de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+winglian/Llama-2-3b-hf : 3 milliards de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+matsuo-lab/weblab-10b : 10 milliards de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+uukuguy/Orca-2-7b-f16 : 7 milliards de paramètres
+01-ai/Yi-34B-200K : 34 milliards de paramètres
+01-ai/Yi-34B : 34 milliards de paramètres
+01-ai/Yi-6B-200K : 6 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+TheBloke/Llama-2-13B-fp16 : 13 milliards de paramètres
+sarvamai/OpenHathi-7B-Hi-v0.1-Base : 7 milliards de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+Kunhao/pile-7b-250b-tokens : 7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+chargoddard/Yi-34B-Llama : 34 milliards de paramètres
+chargoddard/llama-2-26b-trenchcoat-stack : 26 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+huggyllama/llama-13b : 13 milliards de paramètres
+NucleusAI/nucleus-22B-token-500B : 22 milliards de paramètres
+Walmart-the-bag/Influxient-4x13B : 52 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+openlm-research/open_llama_13b : 13 milliards de paramètres
+abhinand/tamil-llama-7b-base-v0.1 : 7 milliards de paramètres
+abhinand/tamil-llama-13b-base-v0.1 : 13 milliards de paramètres
+TigerResearch/tigerbot-13b-base : 13 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Devio/test-22B : 22 milliards de paramètres
+Delcos/Starling-LM-11B-alpha : 11 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+beomi/Yi-Ko-6B : 6 milliards de paramètres
+fblgit/una-llama-7b : 7 milliards de paramètres
+codellama/CodeLlama-7b-hf : 7 milliards de paramètres
+codellama/CodeLlama-13b-hf : 13 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE_13B : 7 milliards de paramètres
+cloudyu/Mixtral_7Bx2_MoE : 7 milliards de paramètres
+cloudyu/Mixtral_7Bx4_MOE_24B : 7 milliards de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliards de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliards de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliards de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+Salesforce/codegen-6B-multi : 6 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliards de paramètres
+ethzanalytics/pythia-31m :  31 millions de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+mistralai/Mistral-7B-v0.1 : 7 milliards de paramètres
+Deci/DeciLM-7B : 7 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliard de paramètres
+scb10x/typhoon-7b : 7 milliards de paramètres
+stabilityai/japanese-stablelm-base-gamma-7b : 7 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-6.7b : 6.7 milliards de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-j-6b : 6 milliard de paramètres
+EleutherAI/pythia-12b-deduped : 12 milliard de paramètres
+EleutherAI/pythia-6.9b-deduped : 6.9 milliard de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/pythia-12b : 12 milliard de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliard de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+Locutusque/TinyMistral-248M-v2 :248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+roneneldan/TinyStories-1M :1 millions de paramètres
+cyberagent/calm2-7b-chat : 7 milliards de paramètres
+upstage/SOLAR-10.7B-v1.0 : 10.7 milliards de paramètres
+seungduk/KoSOLAR-10.7B-v0.1 : 10.7 milliards de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+chargoddard/SmolLlamix-8x101M : 8 x 101 millions de paramètres
+chargoddard/SmolLlamix-8x101M-take2 : 8 x 101 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+openlm-research/open_llama_7b_v2 : 7 milliards de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_7b : 7 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+cerebras/Cerebras-GPT-6.7B : 6.7 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliard de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+itsliupeng/openllama-7b-base : 7 milliards de paramètres
+itsliupeng/openllama-7b-icl : 7 milliards de paramètres
+tiiuae/falcon-7b : 7 milliards de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+augmxnt/shisa-base-7b-v1 : 7 milliards de paramètres
+bigscience/bloom-7b1 : 7.1 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-7B-v0.1 : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-7B-Base : 7 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+DevaMalla/llama-base-7b : 7 milliards de paramètres
+Salesforce/codegen-6B-nl : 6 milliards de paramètres
+GeneZC/MiniMA-2-3B : 3 milliards de paramètres
+GeneZC/MiniMA-3B : 3 milliards de paramètres
+BEE-spoke-data/Mixtral-GQA-400m-v2 : 400 millions de paramètres
+BEE-spoke-data/smol_llama-220M-GQA : 220 millions de paramètres
+BEE-spoke-data/smol_llama-81M-tied : 81 millions de paramètres
+BEE-spoke-data/smol_llama-101M-GQA : 101 millions de paramètres
+Dans-DiscountModels/ShearedLlama-1.3b-FFT-Test1 : 1.3 milliard de paramètres
+TheBloke/Llama-2-7B-GPTQ : 7 milliards de paramètres
+team-lucid/mptk-1b : 1 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-126m : 126 millions de paramètres
+AI-Sweden-Models/gpt-sw3-1.3b : 1.3 milliard de paramètres
+AI-Sweden-Models/gpt-sw3-356m : 356 millions de paramètres
+facebook/xglm-4.5B : 4.5 milliards de paramètres
+stabilityai/stablelm-3b-4e1t : 3 milliards de paramètres
+stabilityai/stablelm-base-alpha-3b : 3 milliards de paramètres
+RWKV/rwkv-4-430m-pile : 430 millions de paramètres
+RWKV/rwkv-4-169m-pile : 169 millions de paramètres
+EleutherAI/gpt-neo-2.7B : 2.7 milliards de paramètres
+EleutherAI/pythia-70m-deduped : 70 millions de paramètres
+EleutherAI/pythia-2.7b : 2.7 milliards de paramètres
+EleutherAI/pythia-160m-deduped : 160 millions de paramètres
+EleutherAI/pythia-1b-deduped : 1 milliard de paramètres
+EleutherAI/gpt-neo-1.3B : 1.3 milliard de paramètres
+EleutherAI/pythia-1.3b : 1.3 milliard de paramètres
+EleutherAI/gpt-neo-125m : 125 millions de paramètres
+EleutherAI/pythia-410m-deduped : 410 millions de paramètres
+EleutherAI/pythia-1.4b-deduped : 1.4 milliard de paramètres
+EleutherAI/pythia-2.8b-deduped : 2.8 milliards de paramètres
+EleutherAI/pythia-160m : 160 millions de paramètres
+EleutherAI/pythia-410m : 410 millions de paramètres
+Dampish/StellarX-4B-V0.2 : 4 milliards de paramètres
+Dampish/StellarX-4B-V0 : 4 milliards de paramètres
+Locutusque/TinyMistral-248M-v2 : 248 millions de paramètres
+Locutusque/TinyMistral-248m : 248 millions de paramètres
+roneneldan/TinyStories-3M : 3 millions de paramètres
+roneneldan/TinyStories-33M : 33 millions de paramètres
+roneneldan/TinyStories-1M : 1 million de paramètres
+roneneldan/TinyStories-28M : 28 millions de paramètres
+roneneldan/TinyStories-8M : 8 millions de paramètres
+ethzanalytics/pythia-31m : 31 millions de paramètres
+budecosystem/boomer-1b : 1 milliard de paramètres
+chargoddard/SmolLlamix-8x101M : 8 x 101 millions de paramètres
+chargoddard/SmolLlamix-8x101M-take2 : 8 x 101 millions de paramètres
+instructkr/ko-wand-136M : 136 millions de paramètres
+PY007/TinyLlama-1.1B-step-50K-105b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-240k-503b : 1.1 milliard de paramètres
+PY007/TinyLlama-1.1B-intermediate-step-480k-1T : 1.1 milliard de paramètres
+openlm-research/open_llama_3b_v2 : 3 milliards de paramètres
+openlm-research/open_llama_3b : 3 milliards de paramètres
+cerebras/Cerebras-GPT-111M : 111 millions de paramètres
+cerebras/Cerebras-GPT-1.3B : 1.3 milliard de paramètres
+cerebras/Cerebras-GPT-256M : 256 millions de paramètres
+cerebras/Cerebras-GPT-2.7B : 2.7 milliards de paramètres
+tiiuae/falcon-rw-1b : 1 milliard de paramètres
+TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T : 1.1 milliard de paramètres
+robowaifudev/megatron-gpt2-345m : 345 millions de paramètres
+pszemraj/pythia-31m-KI_v1-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-goodwiki-deduped-2048-scratch : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-scratch-bf16 : 31 millions de paramètres
+pszemraj/pythia-31m-simplewiki-2048 : 31 millions de paramètres
+pszemraj/pythia-31m-simplepile-lite-2048-scratch-2e : 31 millions de paramètres
+rinna/bilingual-gpt-neox-4b-8k : 4 milliards de paramètres
+rinna/bilingual-gpt-neox-4b : 4 milliards de paramètres
+01-ai/Yi-6B : 6 milliards de paramètres
+bigscience/bloom-3b : 3 milliards de paramètres
+togethercomputer/RedPajama-INCITE-Base-3B-v1 : 3 milliards de paramètres
+ahxt/LiteLlama-460M-1T : 460 millions de paramètres
