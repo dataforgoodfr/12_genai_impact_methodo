@@ -1,0 +1,15 @@
+name: "llama-7b"
+backend: "tensorrtllm"
+
+parameters: {
+  key: "gpt_model_type"
+  value: {
+    string_value: "inflight_fused_batching"
+  }
+}
+parameters: {
+  key: "gpt_model_path"
+  value: {
+    string_value: "/models/llama-7b/1"
+  }
+}

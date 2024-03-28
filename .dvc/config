@@ -1,0 +1,9 @@
+[core]
+    remote = genai-impact-remote
+    analytics = false
+    autostage = true
+
+['remote "genai-impact-remote"']
+    url = s3://genai-impact-models/bench
+    region = fr-par
+    endpointurl = https://s3.fr-par.scw.cloud
