@@ -1,7 +1,7 @@
 services:
   triton:
-    image: nvcr.io/nvidia/tritonserver:24.02-trtllm-python-py3
-    command: ["tritonserver", "--model-repository=/models", "--model-control-mode=explicit", "--log-verbose=3"]
+    image: nvcr.io/nvidia/tritonserver:24.03-trtllm-python-py3
+    command: ["tritonserver", "--model-repository=/models", "--model-control-mode=explicit", "--log-verbose=3", "--backend-config=tensorrt,version-compatible=true"]
     ports:
       - "8000:8000"
       - "8001:8001"
