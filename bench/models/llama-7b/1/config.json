@@ -1,5 +1,5 @@
 {
-    "version": "0.9.0.dev2024032600",
+    "version": "0.9.0",
     "pretrained_config": {
         "architecture": "LlamaForCausalLM",
         "dtype": "float16",
@@ -76,7 +76,7 @@
         "auto_parallel_config": {
             "world_size": 1,
             "gpus_per_node": 8,
-            "cluster_key": "A100-SXM-40GB",
+            "cluster_key": "L4",
             "cluster_info": null,
             "sharding_cost_model": "alpha_beta",
             "comm_cost_model": "alpha_beta",
